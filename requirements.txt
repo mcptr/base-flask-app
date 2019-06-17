@@ -1,0 +1,38 @@
+# BASE-FLASK-APP
+
+1. requirements
+2. specification
+3. implementation
+4. (testing?)
+5. (deployment?)
+
+
+REQUIREMENTS:
+
+Project Scope:
+- flask web app
+- rest api (http)
+
+Time: week
+
+Implementation features:
+1. logs all request [EPIC]
+2. allows to retrieve logs (all) [EPIC]
+
+
+
+
+Project plan:
+- create environment
+- install dependency (python)
+- implement 2 features
+
+
+
+Project:
+Sprint #2
+- demo
+- planning
+- estimates
+
+
